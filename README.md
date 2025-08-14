@@ -20,4 +20,4 @@ Bu proje, backend geliştirme pratiği kazanmak ve **veritabanı ile API entegra
 
 ---
 
-**Not:** Bu proje, geliştirme ve öğrenme amaçlı hazırlanmıştır. Proje kodları ve işleyişi GitHub üzerinden erişilebilir.
+
