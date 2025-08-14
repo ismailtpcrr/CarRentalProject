@@ -1,20 +1,23 @@
-# 🚗 CarRentalProject
+# CarRentalProject
 
-## 📌 Proje Hakkında
-CarRentalProject, araç kiralama işlemlerini yönetmek için geliştirilmiş bir **.NET 9 Web API** projesidir.  
-Proje, araçların kiralanması, müşteri yönetimi ve sipariş takibi gibi temel işlevleri içerir.  
+## Proje Hakkında
+CarRentalProject, araç kiralama süreçlerini **dijital olarak yönetmek** amacıyla geliştirilmiş bir **.NET 9 Web API** projesidir.  
+Proje, araç kayıtları, müşteri yönetimi ve kiralama siparişlerinin takibi gibi temel işlevleri kapsamaktadır.  
+
+Bu proje, backend geliştirme pratiği kazanmak ve **veritabanı ile API entegrasyonu** konularında deneyim sağlamak için hazırlanmıştır.
+
+## Kullanılan Teknolojiler
+- .NET 9 Web API
+- Entity Framework Core
+- PostgreSQL
+- C#
+- Visual Studio
+
+## Projenin Amacı
+- Araç kiralama süreçlerini düzenli ve güvenilir hale getirmek  
+- CRUD işlemleri üzerinden API tasarım ve veritabanı entegrasyonu pratiği sağlamak  
+- İlerleyen aşamalarda proje taşınabilir ve konteyner tabanlı olacak şekilde ölçeklenebilir bir yapı oluşturmak
 
 ---
 
-## 🛠 Kullanılan Teknolojiler
-- **.NET 9 Web API**
-- **Entity Framework Core**
-- **PostgreSQL**
-- **C#**
-- **Visual Studio**
-
----
-
-## 💡 Projenin Amacı
-Amaç, araç kiralama süreçlerini hızlı, düzenli ve verimli bir şekilde yönetebilecek bir API sunmaktır.  
-Proje, ileride Docker ve container desteği ile taşınabilir hale getirilebilir.
+**Not:** Bu proje, geliştirme ve öğrenme amaçlı hazırlanmıştır. Proje kodları ve işleyişi GitHub üzerinden erişilebilir.
