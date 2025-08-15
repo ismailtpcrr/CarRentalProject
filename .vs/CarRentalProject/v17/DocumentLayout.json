@@ -3,56 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\ismai\\Desktop\\CarRentalProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{258FA948-3EFD-466F-BDCB-FE8E5754B029}|Entities\\Entities.csproj|c:\\users\\ismai\\desktop\\carrentalproject\\entities\\concrede\\rental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{258FA948-3EFD-466F-BDCB-FE8E5754B029}|Entities\\Entities.csproj|solutionrelative:entities\\concrede\\rental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{222BB7F6-5CE4-4815-A2C8-58776D0F7AB7}|Core\\Core.csproj|c:\\users\\ismai\\desktop\\carrentalproject\\core\\entities\\concrede\\useroperationclaim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{222BB7F6-5CE4-4815-A2C8-58776D0F7AB7}|Core\\Core.csproj|solutionrelative:core\\entities\\concrede\\useroperationclaim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{258FA948-3EFD-466F-BDCB-FE8E5754B029}|Entities\\Entities.csproj|c:\\users\\ismai\\desktop\\carrentalproject\\entities\\concrede\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{258FA948-3EFD-466F-BDCB-FE8E5754B029}|Entities\\Entities.csproj|solutionrelative:entities\\concrede\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{222BB7F6-5CE4-4815-A2C8-58776D0F7AB7}|Core\\Core.csproj|c:\\users\\ismai\\desktop\\carrentalproject\\core\\entities\\concrede\\operationclaim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{222BB7F6-5CE4-4815-A2C8-58776D0F7AB7}|Core\\Core.csproj|solutionrelative:core\\entities\\concrede\\operationclaim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{258FA948-3EFD-466F-BDCB-FE8E5754B029}|Entities\\Entities.csproj|c:\\users\\ismai\\desktop\\carrentalproject\\entities\\concrede\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{258FA948-3EFD-466F-BDCB-FE8E5754B029}|Entities\\Entities.csproj|solutionrelative:entities\\concrede\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9ABE2DA2-53B3-4F77-9763-9C4B735B2EA1}|DataAccess\\DataAccess.csproj|c:\\users\\ismai\\desktop\\carrentalproject\\dataaccess\\concrede\\entityframework\\carrentalcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9ABE2DA2-53B3-4F77-9763-9C4B735B2EA1}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\concrede\\entityframework\\carrentalcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EAD691C5-DAEC-4A6D-85A2-087C953FA795}|Business\\Business.csproj|c:\\users\\ismai\\desktop\\carrentalproject\\business\\concrede\\rentalmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EAD691C5-DAEC-4A6D-85A2-087C953FA795}|Business\\Business.csproj|solutionrelative:business\\concrede\\rentalmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EAD691C5-DAEC-4A6D-85A2-087C953FA795}|Business\\Business.csproj|c:\\users\\ismai\\desktop\\carrentalproject\\business\\concrede\\customermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EAD691C5-DAEC-4A6D-85A2-087C953FA795}|Business\\Business.csproj|solutionrelative:business\\concrede\\customermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EAD691C5-DAEC-4A6D-85A2-087C953FA795}|Business\\Business.csproj|c:\\users\\ismai\\desktop\\carrentalproject\\business\\concrede\\colormanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EAD691C5-DAEC-4A6D-85A2-087C953FA795}|Business\\Business.csproj|solutionrelative:business\\concrede\\colormanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EAD691C5-DAEC-4A6D-85A2-087C953FA795}|Business\\Business.csproj|c:\\users\\ismai\\desktop\\carrentalproject\\business\\concrede\\carmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EAD691C5-DAEC-4A6D-85A2-087C953FA795}|Business\\Business.csproj|solutionrelative:business\\concrede\\carmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EAD691C5-DAEC-4A6D-85A2-087C953FA795}|Business\\Business.csproj|c:\\users\\ismai\\desktop\\carrentalproject\\business\\validationrules\\fluentvalidation\\brandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EAD691C5-DAEC-4A6D-85A2-087C953FA795}|Business\\Business.csproj|solutionrelative:business\\validationrules\\fluentvalidation\\brandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{222BB7F6-5CE4-4815-A2C8-58776D0F7AB7}|Core\\Core.csproj|c:\\users\\ismai\\desktop\\carrentalproject\\core\\utilities\\business\\businessrules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{222BB7F6-5CE4-4815-A2C8-58776D0F7AB7}|Core\\Core.csproj|solutionrelative:core\\utilities\\business\\businessrules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EAD691C5-DAEC-4A6D-85A2-087C953FA795}|Business\\Business.csproj|c:\\users\\ismai\\desktop\\carrentalproject\\business\\concrede\\brandmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EAD691C5-DAEC-4A6D-85A2-087C953FA795}|Business\\Business.csproj|solutionrelative:business\\concrede\\brandmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EAD691C5-DAEC-4A6D-85A2-087C953FA795}|Business\\Business.csproj|c:\\users\\ismai\\desktop\\carrentalproject\\business\\validationrules\\fluentvalidation\\carvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EAD691C5-DAEC-4A6D-85A2-087C953FA795}|Business\\Business.csproj|solutionrelative:business\\validationrules\\fluentvalidation\\carvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EAD691C5-DAEC-4A6D-85A2-087C953FA795}|Business\\Business.csproj|c:\\users\\ismai\\desktop\\carrentalproject\\business\\validationrules\\fluentvalidation\\colorvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EAD691C5-DAEC-4A6D-85A2-087C953FA795}|Business\\Business.csproj|solutionrelative:business\\validationrules\\fluentvalidation\\colorvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{222BB7F6-5CE4-4815-A2C8-58776D0F7AB7}|Core\\Core.csproj|c:\\users\\ismai\\desktop\\carrentalproject\\core\\entities\\concrede\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{222BB7F6-5CE4-4815-A2C8-58776D0F7AB7}|Core\\Core.csproj|solutionrelative:core\\entities\\concrede\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,168 +22,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "C:\\Users\\ismai\\Desktop\\CarRentalProject\\Entities\\Concrede\\Customer.cs",
-              "RelativeDocumentMoniker": "Entities\\Concrede\\Customer.cs",
-              "ToolTip": "C:\\Users\\ismai\\Desktop\\CarRentalProject\\Entities\\Concrede\\Customer.cs",
-              "RelativeToolTip": "Entities\\Concrede\\Customer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-30T16:29:51.835Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CarManager.cs",
-              "DocumentMoniker": "C:\\Users\\ismai\\Desktop\\CarRentalProject\\Business\\Concrede\\CarManager.cs",
-              "RelativeDocumentMoniker": "Business\\Concrede\\CarManager.cs",
-              "ToolTip": "C:\\Users\\ismai\\Desktop\\CarRentalProject\\Business\\Concrede\\CarManager.cs",
-              "RelativeToolTip": "Business\\Concrede\\CarManager.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAIwGkAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T16:47:41.923Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "BrandManager.cs",
-              "DocumentMoniker": "C:\\Users\\ismai\\Desktop\\CarRentalProject\\Business\\Concrede\\BrandManager.cs",
-              "RelativeDocumentMoniker": "Business\\Concrede\\BrandManager.cs",
-              "ToolTip": "C:\\Users\\ismai\\Desktop\\CarRentalProject\\Business\\Concrede\\BrandManager.cs",
-              "RelativeToolTip": "Business\\Concrede\\BrandManager.cs",
-              "ViewState": "AgIAAGgAAAAAAAAAAAAqwFgAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T14:29:26.769Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "BusinessRules.cs",
-              "DocumentMoniker": "C:\\Users\\ismai\\Desktop\\CarRentalProject\\Core\\Utilities\\Business\\BusinessRules.cs",
-              "RelativeDocumentMoniker": "Core\\Utilities\\Business\\BusinessRules.cs",
-              "ToolTip": "C:\\Users\\ismai\\Desktop\\CarRentalProject\\Core\\Utilities\\Business\\BusinessRules.cs",
-              "RelativeToolTip": "Core\\Utilities\\Business\\BusinessRules.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T16:53:21.977Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "BrandValidator.cs",
-              "DocumentMoniker": "C:\\Users\\ismai\\Desktop\\CarRentalProject\\Business\\ValidationRules\\FluentValidation\\BrandValidator.cs",
-              "RelativeDocumentMoniker": "Business\\ValidationRules\\FluentValidation\\BrandValidator.cs",
-              "ToolTip": "C:\\Users\\ismai\\Desktop\\CarRentalProject\\Business\\ValidationRules\\FluentValidation\\BrandValidator.cs",
-              "RelativeToolTip": "Business\\ValidationRules\\FluentValidation\\BrandValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T14:48:39.714Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ColorManager.cs",
-              "DocumentMoniker": "C:\\Users\\ismai\\Desktop\\CarRentalProject\\Business\\Concrede\\ColorManager.cs",
-              "RelativeDocumentMoniker": "Business\\Concrede\\ColorManager.cs",
-              "ToolTip": "C:\\Users\\ismai\\Desktop\\CarRentalProject\\Business\\Concrede\\ColorManager.cs",
-              "RelativeToolTip": "Business\\Concrede\\ColorManager.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T16:19:38.588Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "RentalManager.cs",
-              "DocumentMoniker": "C:\\Users\\ismai\\Desktop\\CarRentalProject\\Business\\Concrede\\RentalManager.cs",
-              "RelativeDocumentMoniker": "Business\\Concrede\\RentalManager.cs",
-              "ToolTip": "C:\\Users\\ismai\\Desktop\\CarRentalProject\\Business\\Concrede\\RentalManager.cs",
-              "RelativeToolTip": "Business\\Concrede\\RentalManager.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAAAswEYAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-24T00:46:54.942Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Rental.cs",
-              "DocumentMoniker": "C:\\Users\\ismai\\Desktop\\CarRentalProject\\Entities\\Concrede\\Rental.cs",
-              "RelativeDocumentMoniker": "Entities\\Concrede\\Rental.cs",
-              "ToolTip": "C:\\Users\\ismai\\Desktop\\CarRentalProject\\Entities\\Concrede\\Rental.cs",
-              "RelativeToolTip": "Entities\\Concrede\\Rental.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Title": "UserOperationClaim.cs",
+              "DocumentMoniker": "C:\\Users\\ismai\\Desktop\\CarRentalProject\\Core\\Entities\\Concrede\\UserOperationClaim.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Concrede\\UserOperationClaim.cs",
+              "ToolTip": "C:\\Users\\ismai\\Desktop\\CarRentalProject\\Core\\Entities\\Concrede\\UserOperationClaim.cs",
+              "RelativeToolTip": "Core\\Entities\\Concrede\\UserOperationClaim.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-24T00:46:12.841Z",
+              "WhenOpened": "2025-08-15T21:57:27.487Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CarRentalContext.cs",
-              "DocumentMoniker": "C:\\Users\\ismai\\Desktop\\CarRentalProject\\DataAccess\\Concrede\\EntityFramework\\CarRentalContext.cs",
-              "RelativeDocumentMoniker": "DataAccess\\Concrede\\EntityFramework\\CarRentalContext.cs",
-              "ToolTip": "C:\\Users\\ismai\\Desktop\\CarRentalProject\\DataAccess\\Concrede\\EntityFramework\\CarRentalContext.cs",
-              "RelativeToolTip": "DataAccess\\Concrede\\EntityFramework\\CarRentalContext.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAYwD0AAABFAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "OperationClaim.cs",
+              "DocumentMoniker": "C:\\Users\\ismai\\Desktop\\CarRentalProject\\Core\\Entities\\Concrede\\OperationClaim.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Concrede\\OperationClaim.cs",
+              "ToolTip": "C:\\Users\\ismai\\Desktop\\CarRentalProject\\Core\\Entities\\Concrede\\OperationClaim.cs",
+              "RelativeToolTip": "Core\\Entities\\Concrede\\OperationClaim.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-28T23:31:24.389Z",
+              "WhenOpened": "2025-08-15T21:56:48.735Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Car.cs",
-              "DocumentMoniker": "C:\\Users\\ismai\\Desktop\\CarRentalProject\\Entities\\Concrede\\Car.cs",
-              "RelativeDocumentMoniker": "Entities\\Concrede\\Car.cs",
-              "ToolTip": "C:\\Users\\ismai\\Desktop\\CarRentalProject\\Entities\\Concrede\\Car.cs",
-              "RelativeToolTip": "Entities\\Concrede\\Car.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ismai\\Desktop\\CarRentalProject\\Core\\Entities\\Concrede\\User.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Concrede\\User.cs",
+              "ToolTip": "C:\\Users\\ismai\\Desktop\\CarRentalProject\\Core\\Entities\\Concrede\\User.cs",
+              "RelativeToolTip": "Core\\Entities\\Concrede\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T01:27:42.038Z",
+              "WhenOpened": "2025-08-15T21:53:48.793Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CustomerManager.cs",
-              "DocumentMoniker": "C:\\Users\\ismai\\Desktop\\CarRentalProject\\Business\\Concrede\\CustomerManager.cs",
-              "RelativeDocumentMoniker": "Business\\Concrede\\CustomerManager.cs",
-              "ToolTip": "C:\\Users\\ismai\\Desktop\\CarRentalProject\\Business\\Concrede\\CustomerManager.cs",
-              "RelativeToolTip": "Business\\Concrede\\CustomerManager.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAYwB8AAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-29T00:12:13.703Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "CarValidator.cs",
-              "DocumentMoniker": "C:\\Users\\ismai\\Desktop\\CarRentalProject\\Business\\ValidationRules\\FluentValidation\\CarValidator.cs",
-              "RelativeDocumentMoniker": "Business\\ValidationRules\\FluentValidation\\CarValidator.cs",
-              "ToolTip": "C:\\Users\\ismai\\Desktop\\CarRentalProject\\Business\\ValidationRules\\FluentValidation\\CarValidator.cs",
-              "RelativeToolTip": "Business\\ValidationRules\\FluentValidation\\CarValidator.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T14:48:13.164Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ColorValidator.cs",
-              "DocumentMoniker": "C:\\Users\\ismai\\Desktop\\CarRentalProject\\Business\\ValidationRules\\FluentValidation\\ColorValidator.cs",
-              "RelativeDocumentMoniker": "Business\\ValidationRules\\FluentValidation\\ColorValidator.cs",
-              "ToolTip": "C:\\Users\\ismai\\Desktop\\CarRentalProject\\Business\\ValidationRules\\FluentValidation\\ColorValidator.cs",
-              "RelativeToolTip": "Business\\ValidationRules\\FluentValidation\\ColorValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T14:48:12.402Z"
             }
           ]
         }
