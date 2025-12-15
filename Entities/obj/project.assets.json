@@ -1200,39 +1200,32 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ismai\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "/Users/ismailtopucar/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ismai\\Desktop\\CarRentalProject\\Entities\\Entities.csproj",
+      "projectUniqueName": "/Users/ismailtopucar/Desktop/CarRentalProject/Entities/Entities.csproj",
       "projectName": "Entities",
-      "projectPath": "C:\\Users\\ismai\\Desktop\\CarRentalProject\\Entities\\Entities.csproj",
-      "packagesPath": "C:\\Users\\ismai\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ismai\\Desktop\\CarRentalProject\\Entities\\obj\\",
+      "projectPath": "/Users/ismailtopucar/Desktop/CarRentalProject/Entities/Entities.csproj",
+      "packagesPath": "/Users/ismailtopucar/.nuget/packages/",
+      "outputPath": "/Users/ismailtopucar/Desktop/CarRentalProject/Entities/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\ismai\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/ismailtopucar/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "C:\\Users\\ismai\\Desktop\\CarRentalProject\\Core\\Core.csproj": {
-              "projectPath": "C:\\Users\\ismai\\Desktop\\CarRentalProject\\Core\\Core.csproj"
+            "/Users/ismailtopucar/Desktop/CarRentalProject/Core/Core.csproj": {
+              "projectPath": "/Users/ismailtopucar/Desktop/CarRentalProject/Core/Core.csproj"
             }
           }
         }
@@ -1268,7 +1261,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.308/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

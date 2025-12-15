@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\ismai\\Desktop\\CarRentalProject\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9ABE2DA2-53B3-4F77-9763-9C4B735B2EA1}|DataAccess\\DataAccess.csproj|c:\\users\\ismai\\desktop\\carrentalproject\\dataaccess\\concrede\\entityframework\\carrentalcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ABE2DA2-53B3-4F77-9763-9C4B735B2EA1}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\concrede\\entityframework\\carrentalcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAD691C5-DAEC-4A6D-85A2-087C953FA795}|Business\\Business.csproj|c:\\users\\ismai\\desktop\\carrentalproject\\business\\concrede\\customermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAD691C5-DAEC-4A6D-85A2-087C953FA795}|Business\\Business.csproj|solutionrelative:business\\concrede\\customermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAD691C5-DAEC-4A6D-85A2-087C953FA795}|Business\\Business.csproj|c:\\users\\ismai\\desktop\\carrentalproject\\business\\abstract\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAD691C5-DAEC-4A6D-85A2-087C953FA795}|Business\\Business.csproj|solutionrelative:business\\abstract\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2122534-5AFC-4F9F-96D8-6B565708B21C}|WebAPI\\WebAPI.csproj|c:\\users\\ismai\\desktop\\carrentalproject\\webapi\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2122534-5AFC-4F9F-96D8-6B565708B21C}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{222BB7F6-5CE4-4815-A2C8-58776D0F7AB7}|Core\\Core.csproj|c:\\users\\ismai\\desktop\\carrentalproject\\core\\entities\\concrede\\useroperationclaim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{222BB7F6-5CE4-4815-A2C8-58776D0F7AB7}|Core\\Core.csproj|solutionrelative:core\\entities\\concrede\\useroperationclaim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{222BB7F6-5CE4-4815-A2C8-58776D0F7AB7}|Core\\Core.csproj|c:\\users\\ismai\\desktop\\carrentalproject\\core\\entities\\concrede\\operationclaim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{222BB7F6-5CE4-4815-A2C8-58776D0F7AB7}|Core\\Core.csproj|solutionrelative:core\\entities\\concrede\\operationclaim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{222BB7F6-5CE4-4815-A2C8-58776D0F7AB7}|Core\\Core.csproj|c:\\users\\ismai\\desktop\\carrentalproject\\core\\entities\\concrede\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{222BB7F6-5CE4-4815-A2C8-58776D0F7AB7}|Core\\Core.csproj|solutionrelative:core\\entities\\concrede\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +30,70 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UserOperationClaim.cs",
-              "DocumentMoniker": "C:\\Users\\ismai\\Desktop\\CarRentalProject\\Core\\Entities\\Concrede\\UserOperationClaim.cs",
-              "RelativeDocumentMoniker": "Core\\Entities\\Concrede\\UserOperationClaim.cs",
-              "ToolTip": "C:\\Users\\ismai\\Desktop\\CarRentalProject\\Core\\Entities\\Concrede\\UserOperationClaim.cs",
-              "RelativeToolTip": "Core\\Entities\\Concrede\\UserOperationClaim.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-15T21:57:27.487Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "OperationClaim.cs",
-              "DocumentMoniker": "C:\\Users\\ismai\\Desktop\\CarRentalProject\\Core\\Entities\\Concrede\\OperationClaim.cs",
-              "RelativeDocumentMoniker": "Core\\Entities\\Concrede\\OperationClaim.cs",
-              "ToolTip": "C:\\Users\\ismai\\Desktop\\CarRentalProject\\Core\\Entities\\Concrede\\OperationClaim.cs",
-              "RelativeToolTip": "Core\\Entities\\Concrede\\OperationClaim.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Title": "CustomerManager.cs",
+              "DocumentMoniker": "C:\\Users\\ismai\\Desktop\\CarRentalProject\\Business\\Concrede\\CustomerManager.cs",
+              "RelativeDocumentMoniker": "Business\\Concrede\\CustomerManager.cs",
+              "ToolTip": "C:\\Users\\ismai\\Desktop\\CarRentalProject\\Business\\Concrede\\CustomerManager.cs",
+              "RelativeToolTip": "Business\\Concrede\\CustomerManager.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-15T21:56:48.735Z",
+              "WhenOpened": "2025-10-02T12:06:54.896Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\ismai\\Desktop\\CarRentalProject\\Core\\Entities\\Concrede\\User.cs",
-              "RelativeDocumentMoniker": "Core\\Entities\\Concrede\\User.cs",
-              "ToolTip": "C:\\Users\\ismai\\Desktop\\CarRentalProject\\Core\\Entities\\Concrede\\User.cs",
-              "RelativeToolTip": "Core\\Entities\\Concrede\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAoAAAAAAAAAA==",
+              "Title": "ICustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\ismai\\Desktop\\CarRentalProject\\Business\\Abstract\\ICustomerService.cs",
+              "RelativeDocumentMoniker": "Business\\Abstract\\ICustomerService.cs",
+              "ToolTip": "C:\\Users\\ismai\\Desktop\\CarRentalProject\\Business\\Abstract\\ICustomerService.cs",
+              "RelativeToolTip": "Business\\Abstract\\ICustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-15T21:53:48.793Z",
+              "WhenOpened": "2025-10-02T12:06:21.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "C:\\Users\\ismai\\Desktop\\CarRentalProject\\WebAPI\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\Users\\ismai\\Desktop\\CarRentalProject\\WebAPI\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\CustomersController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T12:05:31.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserOperationClaim.cs",
+              "DocumentMoniker": "C:\\Users\\ismai\\Desktop\\CarRentalProject\\Core\\Entities\\Concrede\\UserOperationClaim.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Concrede\\UserOperationClaim.cs",
+              "ToolTip": "C:\\Users\\ismai\\Desktop\\CarRentalProject\\Core\\Entities\\Concrede\\UserOperationClaim.cs",
+              "RelativeToolTip": "Core\\Entities\\Concrede\\UserOperationClaim.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T13:07:42.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CarRentalContext.cs",
+              "DocumentMoniker": "C:\\Users\\ismai\\Desktop\\CarRentalProject\\DataAccess\\Concrede\\EntityFramework\\CarRentalContext.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Concrede\\EntityFramework\\CarRentalContext.cs",
+              "ToolTip": "C:\\Users\\ismai\\Desktop\\CarRentalProject\\DataAccess\\Concrede\\EntityFramework\\CarRentalContext.cs",
+              "RelativeToolTip": "DataAccess\\Concrede\\EntityFramework\\CarRentalContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T12:48:55.679Z",
               "EditorCaption": ""
             }
           ]

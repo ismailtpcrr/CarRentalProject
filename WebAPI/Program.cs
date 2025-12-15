@@ -10,8 +10,8 @@ builder.Services.AddControllers();
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
 builder.Services.AddOpenApi();
 
-builder.Host.UseServiceProviderFactory(new AutofacServiceProviderFactory());  //alttaki yapýyý businessdeki bir klasörde yaptýk 
-builder.Host.ConfigureContainer<ContainerBuilder>(builder =>                  //burada ise onu çalýþtýr dedik       
+builder.Host.UseServiceProviderFactory(new AutofacServiceProviderFactory());  //alttaki yapï¿½yï¿½ businessdeki bir klasï¿½rde yaptï¿½k 
+builder.Host.ConfigureContainer<ContainerBuilder>(builder =>                  //burada ise onu ï¿½alï¿½ï¿½tï¿½r dedik       
 {
     builder.RegisterModule(new AutofacBusinessModule());
 });
