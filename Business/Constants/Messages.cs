@@ -30,5 +30,7 @@ namespace Business.Constants
         public static string RentalListed = "Kiralama Listelendi";
 
         public static string MaintenanceTime = "Bakım Zamanı";
+
+        public static string AuthorizationDenied = " ";
     }
 }
