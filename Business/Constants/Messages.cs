@@ -31,6 +31,12 @@ namespace Business.Constants
 
         public static string MaintenanceTime = "Bakım Zamanı";
 
-        public static string AuthorizationDenied = " ";
+        public static string AuthorizationDenied = "Yetkiniz yok";
+        public static string UserRegistered = "Kayıt olundu";
+        public static string UserNotFound = "kullanıcı bulunamadı";
+        public static string PasswordError = "Şifre hatası";
+        public static string SuccessfulLogin = "Başarılı giriş";
+        public static string UserAlreadyExists = "Kullanıcı mevcut";
+        public static string AccessTokenCreated = "Access token yaratıldı";
     }
 }
