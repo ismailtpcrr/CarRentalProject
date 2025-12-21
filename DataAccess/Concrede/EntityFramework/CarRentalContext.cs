@@ -10,7 +10,7 @@ namespace DataAccess.Concrede.EntityFramework
     {
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseNpgsql("Host=172.16.22.206;Port=5432;Database=CarRentalDB;Username=postgres;Password=carRental528;");
+            optionsBuilder.UseNpgsql("Host=localhost;Port=5432;Database=CarRentalDB;Username=postgres;Password=carRental528;");
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)

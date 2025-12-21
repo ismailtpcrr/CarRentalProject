@@ -70,6 +70,10 @@
             "Microsoft.AspNetCore.Http": {
               "target": "Package",
               "version": "[2.3.0, )"
+            },
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[6.0.0-preview.4.21253.5, )"
             }
           },
           "imports": [
@@ -147,6 +151,10 @@
             "FluentValidation": {
               "target": "Package",
               "version": "[12.0.0, )"
+            },
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.3.0, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
@@ -371,6 +379,10 @@
             "Autofac.Extensions.DependencyInjection": {
               "target": "Package",
               "version": "[10.0.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[9.0.11, )"
             },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
